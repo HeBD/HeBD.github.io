@@ -3,11 +3,11 @@
 # Projects
 ## Active 
 
-- REDasm-Assemblers
+- [REDasm-Assemblers](https://github.com/HeBD/REDasm-Assemblers) part of [REDasm](https://github.com/REDasmOrg/REDasm)
 
 ## Old
 
-- DownloadDaemon
+- [DownloadDaemon](https://github.com/HeBD/DownloadDaemon)
 
 # Endnotes
 
